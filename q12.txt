@@ -1,0 +1,1 @@
+sed -i 's/apple/orange/g' filename.txt
